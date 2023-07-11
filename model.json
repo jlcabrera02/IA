@@ -242,7 +242,9 @@
   },
   "weightsManifest": [
     {
-      "paths": ["./group1-shard1of1.bin"],
+      "paths": [
+        "https://github.com/jlcabrera02/IA/blob/master/group1-shard1of1.bin"
+      ],
       "weights": [
         {
           "name": "conv2d_12/kernel",
