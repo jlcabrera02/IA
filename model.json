@@ -242,7 +242,7 @@
   },
   "weightsManifest": [
     {
-      "paths": ["/IA/group1-shard1of1"],
+      "paths": ["./IA/group1-shard1of1"],
       "weights": [
         {
           "name": "conv2d_12/kernel",
